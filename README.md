@@ -26,7 +26,7 @@ https://web-security-acadimy.net/filter?category=accessories
 - **Effect:** This retrieves **all products**, including hidden ones.
 📸 *Before Injection:*  
 *(Insert screenshot of normal product list)*  
-![when Injection](when vulnerability.png).
+ !when Injection (when vulnerability.png).
 
 📸 *After Injection:*  
 ![after Injection](after vulnerability.png).
